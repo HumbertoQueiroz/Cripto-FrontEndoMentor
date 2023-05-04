@@ -114,9 +114,9 @@ I also learned about the `position: absolute;` property, which has two behaviors
 
 ## Github
 
-O código fonte completo deste projeto esta disponível no [Github]( ...)
+O código fonte completo deste projeto esta disponível no [Github](https://github.com/HumbertoQueiroz/Cripto-FrontEndoMentor)
 
-US - The complete source code of this project is available on [Github](...)
+US - The complete source code of this project is available on [Github](https://github.com/HumbertoQueiroz/Cripto-FrontEndoMentor)
 
 
 ## Designer do desafio / Challenge designer
