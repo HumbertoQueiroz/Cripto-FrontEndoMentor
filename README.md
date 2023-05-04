@@ -19,11 +19,13 @@ US - The challenge of this project is to faithfully copy the base designer, rega
 
 ## Resultado / Result
 
-![Desktop](./MeuProjetoDesktop.png)
+`Desktop`
 
+![image](./MeuProjetoDesktop.png)
 
+`Smartphone`
 
-![Smartphone](./MeuProjetoSmartphone.png)
+![image](./MeuProjetoSmartphone.png)
 
 
 
