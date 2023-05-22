@@ -1,6 +1,6 @@
 ## Oi, bem-vindo! / Hi, welcome! 👋
 
-Eu sou `Humberto Queiroz` desenvolvedor Web Front-End, estudo por conta própria programação web FrontEnd e faço o curso Técno em Análise de Desenvolvimento de Sistemas-TADS no IFMT e tenho meu próprio site hospedado no Github.
+Eu sou `Humberto Queiroz` desenvolvedor Web Front-End, estudo por conta própria programação web FrontEnd e faço o curso Tecnólogo em Análise de Desenvolvimento de Sistemas-TADS no IFMT e tenho meu próprio site hospedado no Github.
 
 US - I'm `Humberto Queiroz` Web Front-End developer, I've been studying programming, I'm taking the Technical course in Systems Development Analysis-TADS at IFMT and I have my own website hosted on Github.
 
