@@ -43,7 +43,7 @@ US - All images contain the alt attribute with a description of the image's cont
 
 ## HTML5 e SEO
 
-Utilizado `tags  semânticas e meta tags para rankeamento de SEO`, como Keywords para palavras chave, description para identificar o texto que vai aparecer no resutado da busca após o link do site, robots para indicar que deve ser indexado em buscas, canonical para definir o link canonico. 
+Utilizado `tags  semânticas e meta tags para rankeamento de SEO`, como Keywords para palavras chave, description para identificar o texto que vai aparecer no resultado da busca após o link do site, robots para indicar que deve ser indexado em buscas, canonical para definir o link canônico. 
 
 Us - Used `semantic tags and meta tags for SEO ranking`, such as keywords, description to identify the text that will appear in the search result after the website link, robots to indicate that it should be indexed in searches, canonical to define the link canonical.
 
